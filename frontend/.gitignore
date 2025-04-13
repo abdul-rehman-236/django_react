@@ -1,0 +1,20 @@
+# Node.js / Vite / React / pnpm
+node_modules/
+pnpm-lock.yaml
+dist/
+build/
+.vite/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+
+# OS-specific
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# Coverage / Misc
+*.log
